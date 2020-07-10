@@ -1,0 +1,301 @@
+.mediaViewInfo {
+	--web-view-name: Contact;
+	--web-view-id: Contact;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Contact;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Contact {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Contact;
+	--web-view-id: Contact;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_121 {
+	opacity: 0.89;
+	fill: rgba(48,48,48,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_121 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 59px;
+	left: 0px;
+	top: 106px;
+}
+#PRENDRE_CONTACT {
+	left: 276px;
+	top: 293px;
+	position: absolute;
+	overflow: hidden;
+	width: 747px;
+	height: 52px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 50px;
+	color: rgba(48,48,48,1);
+}
+#ID20190607_093412 {
+	position: absolute;
+	width: 483px;
+	height: 671px;
+	left: 1094px;
+	top: 228px;
+	overflow: visible;
+}
+#Icon_ionic-md-call {
+	fill: rgba(0,0,0,1);
+}
+.Icon_ionic-md-call {
+	overflow: visible;
+	position: absolute;
+	width: 37.34px;
+	height: 38.337px;
+	left: 209px;
+	top: 462px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-contact-mail {
+	fill: rgba(0,0,0,1);
+}
+.Icon_material-contact-mail {
+	overflow: visible;
+	position: absolute;
+	width: 47.436px;
+	height: 41px;
+	left: 215px;
+	top: 581px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID00_33_07_81_33_62_90 {
+	left: 406px;
+	top: 462px;
+	position: absolute;
+	overflow: visible;
+	width: 425px;
+	height: 46px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#nsokebekeharrysyahoofr {
+	left: 364px;
+	top: 554px;
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 46px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#Icon_map-postal-code {
+	fill: rgba(0,0,0,1);
+}
+.Icon_map-postal-code {
+	overflow: visible;
+	position: absolute;
+	width: 40.436px;
+	height: 61px;
+	left: 219px;
+	top: 716px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID16_avenue_Francis_de_Pressen {
+	left: 322px;
+	top: 712px;
+	position: absolute;
+	overflow: visible;
+	width: 639px;
+	height: 94px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#Groupe_227 {
+	position: absolute;
+	width: 244.412px;
+	height: 37px;
+	left: 761px;
+	top: 1019px;
+	overflow: visible;
+}
+#Icon_awesome-facebook-f {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-facebook-f {
+	overflow: visible;
+	position: absolute;
+	width: 19.281px;
+	height: 36px;
+	left: 83.137px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-github {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-github {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.004px;
+	left: 140.834px;
+	top: 0.998px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 29.239px;
+	left: 0px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-linkedin {
+	fill: rgba(0,0,0,1);
+}
+.Icon_awesome-linkedin {
+	overflow: visible;
+	position: absolute;
+	width: 35.412px;
+	height: 35.887px;
+	left: 209px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Parcours_ {
+	left: 902px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: parcours.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(22,224,189,1);
+}
+#Accueil_ {
+	left: 682px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(22,224,189,1);
+}
+#Me_Contacter {
+	left: 1125px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(22,224,189,1);
+}
+#nsokebekeharrys7gmailcom {
+	left: 346px;
+	top: 600px;
+	position: absolute;
+	overflow: visible;
+	width: 550px;
+	height: 46px;
+	line-height: 50px;
+	margin-top: -10px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+a, a:hover, a:visited, a:active
+{
+	color:rgba(22,224,189,1);
+	text-decoration:none;
+}

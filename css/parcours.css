@@ -1,0 +1,926 @@
+.mediaViewInfo {
+	--web-view-name: Parcours;
+	--web-view-id: Parcours;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Parcours;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Parcours {
+	position: absolute;
+	width: 1920px;
+	height: 7180px;
+	background-color: rgba(48,48,48,1);
+	overflow: hidden;
+	--web-view-name: Parcours;
+	--web-view-id: Parcours;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_121 {
+	opacity: 0.89;
+	fill: rgba(22,224,189,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_121 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 59px;
+	left: 0px;
+	top: 106px;
+}
+#Mon_Parcours {
+	left: 715px;
+	top: 227px;
+	position: absolute;
+	overflow: visible;
+	width: 508px;
+	height: 57px;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(22,224,189,1);
+}
+#Trac_12 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(22,224,189,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Trac_12 {
+	overflow: visible;
+	position: absolute;
+	width: 1168.798px;
+	height: 6769.981px;
+	left: 356.517px;
+	top: 318.964px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Groupe_2 {
+	position: absolute;
+	width: 467px;
+	height: 48px;
+	left: 197px;
+	top: 321px;
+	overflow: visible;
+}
+#CTA {
+	position: absolute;
+	width: 467px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_119 {
+	fill: rgba(22,224,189,1);
+}
+.Rectangle_119 {
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Tlcharger_mon_dossier_de_compt {
+	left: 22px;
+	top: 8px;
+	position: absolute;
+	overflow: visible;
+	width: 425px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(48,48,48,1);
+}
+#Groupe_3 {
+	position: absolute;
+	width: 327px;
+	height: 48px;
+	left: 1492px;
+	top: 313px;
+	overflow: visible;
+}
+#CTA_ei {
+	position: absolute;
+	width: 327px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_119_ej {
+	fill: rgba(22,224,189,1);
+}
+.Rectangle_119_ej {
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Tlcharger_mon_CV {
+	left: 59px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(48,48,48,1);
+}
+#Rectangle_124 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_124 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 905px;
+	left: 27px;
+	top: 442px;
+}
+#Rectangle_125 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_125 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 888px;
+	left: 1009px;
+	top: 1347px;
+}
+#Groupe_5 {
+	position: absolute;
+	width: 2451px;
+	height: 2820px;
+	left: -242px;
+	top: 3211px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 2451px;
+	height: 2106px;
+	left: 0px;
+	top: 714px;
+}
+#Ellipse_2 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	height: 1320px;
+	left: 999px;
+	top: 0px;
+}
+#logo-full {
+	position: absolute;
+	width: 279.002px;
+	height: 93.891px;
+	left: 1039px;
+	top: 784px;
+	overflow: visible;
+}
+#Group {
+	position: absolute;
+	width: 279.002px;
+	height: 93.891px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Page-1 {
+	position: absolute;
+	width: 278.411px;
+	height: 72.145px;
+	left: 0.592px;
+	top: 0px;
+	overflow: visible;
+}
+#Fill-1 {
+	opacity: 0.12;
+	fill: rgba(0,0,0,1);
+}
+.Fill-1 {
+	overflow: visible;
+	position: absolute;
+	width: 34.151px;
+	height: 5.827px;
+	left: 17.44px;
+	top: 66.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill-3 {
+	opacity: 0.12;
+	fill: rgba(0,0,0,1);
+}
+.Fill-3 {
+	overflow: visible;
+	position: absolute;
+	width: 34.151px;
+	height: 5.827px;
+	left: 73.627px;
+	top: 66.317px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group-2 {
+	position: absolute;
+	width: 131.317px;
+	height: 59.506px;
+	left: 147.094px;
+	top: 8.671px;
+	overflow: visible;
+}
+#Combined-Shape_ex {
+	fill: url(#Combined-Shape_ex);
+}
+.Combined-Shape_ex {
+	overflow: visible;
+	position: absolute;
+	width: 130.25px;
+	height: 24.139px;
+	left: 1.067px;
+	top: 35.367px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Combined-Shape_ez {
+	fill: url(#Combined-Shape_ez);
+}
+.Combined-Shape_ez {
+	overflow: visible;
+	position: absolute;
+	width: 68.081px;
+	height: 30.837px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group-33 {
+	position: absolute;
+	width: 24.409px;
+	height: 16.142px;
+	left: 50.255px;
+	top: 0px;
+	overflow: visible;
+}
+#Combined-Shape_e {
+	fill: rgba(230,230,230,1);
+}
+.Combined-Shape_e {
+	overflow: visible;
+	position: absolute;
+	width: 24.409px;
+	height: 16.142px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill-38_e {
+	fill: url(#Fill-38_e);
+}
+.Fill-38_e {
+	overflow: visible;
+	position: absolute;
+	width: 62.003px;
+	height: 59.057px;
+	left: 0px;
+	top: 11.532px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill-40_e {
+	fill: url(#Fill-40_e);
+}
+.Fill-40_e {
+	overflow: visible;
+	position: absolute;
+	width: 62.003px;
+	height: 59.057px;
+	left: 62.937px;
+	top: 11.532px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Combined-Shape_fa {
+	fill: rgba(179,179,179,1);
+}
+.Combined-Shape_fa {
+	overflow: visible;
+	position: absolute;
+	width: 278.969px;
+	height: 8.15px;
+	left: 0px;
+	top: 85.74px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_126 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_126 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 860px;
+	left: 27px;
+	top: 2266px;
+}
+#Rectangle_127 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_127 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 919px;
+	left: 1009px;
+	top: 3147px;
+}
+#Rectangle_128 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_128 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 919px;
+	left: 27px;
+	top: 4138px;
+}
+#logo_groupe_sabc {
+	position: absolute;
+	width: 252px;
+	height: 291px;
+	left: 635px;
+	top: 3471px;
+	overflow: visible;
+}
+#Groupe_6 {
+	position: absolute;
+	width: 2451px;
+	height: 2820px;
+	left: -202px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_1_fc {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_fc {
+	position: absolute;
+	overflow: visible;
+	width: 2451px;
+	height: 2106px;
+	left: 0px;
+	top: 714px;
+}
+#Ellipse_2_fd {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_fd {
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	height: 1320px;
+	left: 999px;
+	top: 0px;
+}
+#logo_groupe_sabc_fe {
+	position: absolute;
+	width: 252px;
+	height: 291px;
+	left: 648px;
+	top: 5512px;
+	overflow: visible;
+}
+#ico_logoblanc {
+	position: absolute;
+	width: 142px;
+	height: 231px;
+	left: 1080px;
+	top: 4482px;
+	overflow: visible;
+}
+#Rectangle_129 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_129 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 919px;
+	left: 1009px;
+	top: 5129px;
+}
+#ALLOVOISINS__Data_Scientist_St {
+	left: 53px;
+	top: 463px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 127px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#BLENTAI__Data_Scientist_Appren {
+	left: 1068px;
+	top: 1378px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 113px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#Mmoire_de_fin_dtude_Juillet_-_ {
+	left: 57px;
+	top: 2304px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 126px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#SOCIETE_ANONYME_DES_BRASSERIES {
+	left: 1068px;
+	top: 3179px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 172px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#SOCIETE_CAMEROUNAISE_DE_VERRER {
+	left: 57px;
+	top: 4191px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 187px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#SOCIETE_ANONYME_DES_BRASSERIES_fm {
+	left: 1068px;
+	top: 5151px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 167px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#Rectangle_130 {
+	fill: transparent;
+	stroke: rgba(22,224,189,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 2 6;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_130 {
+	position: absolute;
+	overflow: visible;
+	width: 911px;
+	height: 919px;
+	left: 28px;
+	top: 6144px;
+}
+#SOCIETE_ANONYME_DES_BRASSERIES_fo {
+	left: 87px;
+	top: 6181px;
+	position: absolute;
+	overflow: hidden;
+	width: 853px;
+	height: 155px;
+	line-height: 50px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(22,224,189,1);
+}
+#logo_groupe_sabc_fp {
+	position: absolute;
+	width: 252px;
+	height: 291px;
+	left: 1068px;
+	top: 6427px;
+	overflow: visible;
+}
+#Intitul_de_lintervention______ {
+	left: 1083px;
+	top: 1505px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 730px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_de_lintervention_______fr {
+	left: 73px;
+	top: 609px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 730px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_de_lintervention_______fs {
+	left: 1085px;
+	top: 3364px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 540px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_de_lintervention_______ft {
+	left: 57px;
+	top: 4401px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 440px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_de_lintervention_______fu {
+	left: 1080px;
+	top: 5332px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 598px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_de_lintervention_______fv {
+	left: 57px;
+	top: 6364px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 479px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Intitul_________Estimation_de_ {
+	left: 86px;
+	top: 2525px;
+	position: absolute;
+	overflow: hidden;
+	width: 820px;
+	height: 540px;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 299px;
+	height: 148px;
+	left: 1068px;
+	top: 2622px;
+	overflow: visible;
+}
+#Groupe_227 {
+	position: absolute;
+	width: 244.412px;
+	height: 37px;
+	left: 861px;
+	top: 7119px;
+	overflow: visible;
+}
+#Icon_awesome-facebook-f {
+	fill: rgba(22,224,189,1);
+}
+.Icon_awesome-facebook-f {
+	overflow: visible;
+	position: absolute;
+	width: 19.281px;
+	height: 36px;
+	left: 83.137px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-github {
+	fill: rgba(22,224,189,1);
+}
+.Icon_awesome-github {
+	overflow: visible;
+	position: absolute;
+	width: 34.875px;
+	height: 34.003px;
+	left: 140.834px;
+	top: 0.998px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-twitter {
+	fill: rgba(22,224,189,1);
+}
+.Icon_awesome-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 29.238px;
+	left: 0px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-linkedin {
+	fill: rgba(22,224,189,1);
+}
+.Icon_awesome-linkedin {
+	overflow: visible;
+	position: absolute;
+	width: 35.412px;
+	height: 35.887px;
+	left: 209px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Parcours_ {
+	left: 902px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(48,48,48,1);
+}
+#Accueil_ {
+	left: 682px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(48,48,48,1);
+}
+#Me_Contacter {
+	left: 1125px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: contact.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(48,48,48,1);
+}
+#blent {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	left: 664px;
+	top: 1670px;
+	overflow: visible;
+}
+a, a:hover, a:visited, a:active
+{
+	color:#000;
+	text-decoration:none;
+}
